@@ -107,7 +107,7 @@ WiFiServer server(80);
 
 void setup()
 {
-
+	//Set pin mode out
 	pinMode(Relay1, OUTPUT);
 	pinMode(Relay2, OUTPUT);
 	pinMode(Relay3, OUTPUT);
