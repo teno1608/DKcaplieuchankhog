@@ -100,8 +100,8 @@ const char index_html[] PROGMEM = R"rawliteral(
 )rawliteral";
 
 // Set these to your desired credentials.
-const char *ssid = "AcePoi19216841";
-const char *password = "0987654321";
+const char *ssid = "enter your access point";
+const char *password = "enter your pass";
 
 WiFiServer server(80);
 
