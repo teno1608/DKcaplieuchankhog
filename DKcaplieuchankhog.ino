@@ -244,7 +244,7 @@ void loop()
 		client.stop();
 		Serial.println("Client Disconnected.");
 	}
-
+	//Control funtion
 	if (first_start == 0)
 	{
 		setmills = millis();
